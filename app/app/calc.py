@@ -11,4 +11,3 @@ def add(x, y):
 def subtract(x, y):
     """x ve y'i çıkarıp sonucu döndürür."""
     return y - x
-
